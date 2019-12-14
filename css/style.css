@@ -57,7 +57,7 @@ h6 {
   color: #fff;
 }
 
-/* Prelaoder */
+/* Preloader */
 #preloader {
   position: fixed;
   top: 0;
@@ -561,47 +561,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #f7f7f7;
 }
 
-/* Featured Services Section */
-#featured-services {
-  background: #000;
-}
-
-#featured-services .box {
-  padding: 30px 20px;
-}
-
-#featured-services .box-bg {
-  background-image: linear-gradient(0deg, #000000 0%, #242323 50%, #000000 100%);
-}
-
-#featured-services i {
-  color: #002fee;
-  font-size: 48px;
-  display: inline-block;
-  line-height: 1;
-}
-
-#featured-services h4 {
-  font-weight: 400;
-  margin: 15px 0;
-  font-size: 18px;
-}
-
-#featured-services h4 a {
-  color: #fff;
-}
-
-#featured-services h4 a:hover {
-  color: #002fee;
-}
-
-#featured-services p {
-  font-size: 14px;
-  line-height: 24px;
-  color: #fff;
-  margin-bottom: 0;
-}
-
 /* About Us Section */
 #about {
   background: url("../img/about-bg.jpg") center top no-repeat fixed;
@@ -747,41 +706,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 40px 0;
 }
 
-
-/* Call To Action Section */
-#skills {
-  padding: 20px 0;
-}
-
-#skills .progress {
-  height: 15px;
-  margin-bottom: 10px;
-}
-
-/* Facts Section */
-#facts {
-  background: url("../img/facts-bg.jpg") center top no-repeat fixed;
-  background-size: cover;
-  padding: 40px 0 0 0;
-  position: relative;
-}
-
-#facts::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  background: rgba(255, 255, 255, 0.88);
-  z-index: 7;
-}
-
-#facts .container {
-  position: relative;
-  z-index: 10;
-}
-
 /* Portfolio Section */
 #portfolio {
   padding: 40px 0;
@@ -792,34 +716,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 5px 0 35px 0;
   list-style: none;
   text-align: center;
-}
-
-/* Clients Section */
-
-#clients {
-  padding: 40px 0;
-}
-
-#clients img {
-  max-width: 100%;
-  opacity: 0.5;
-  transition: 0.3s;
-  padding: 15px 0;
-}
-
-/* Testimonials Section */
-#testimonials {
-  padding: 40px 0;
-}
-
-#testimonials .section-header {
-  margin-bottom: 40px;
-}
-
-/* Team Section */
-#team {
-  background: #fff;
-  padding: 40px 0;
 }
 
 /* Contact Section */
