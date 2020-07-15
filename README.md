@@ -1,15 +1,29 @@
-# Weather
+# Infixus Tech
  **Version 1.0.0**
   A responsive one-page website for a local software development to showcase information everyone should know about them.
  
-## Android Libraries
+## Libraries
 
-- Codecrafters Tableview
-- Recyclerview
-- SharePreferences
-- Android permissions
+- animate
+- bootstrap
+- counterup
+- easing
+- font-awesome
+- ionicons
+- isotope
+- jquery
+- lightbox
+- owlcarousel
+- superfish
+- touchSwipe
+- waypoints
+- wow
+- googleapis
+- googlemaps
+- TAWK API
+- MailChimp
 
-## App Description
+## Description
 
 - 
 - 
@@ -28,4 +42,19 @@
 
 ## License & Copyright
 
-Copyright (c) 2020 Elias Svoba, Infixus Tech
+Copyright (c) Infixus Tech
+
+We, the authors of the project, allow you to check the code as a reference.
+
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
